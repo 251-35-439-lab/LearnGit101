@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <time.h>
 
+int square(int x)
+{
+    return x*x;
+}
+
 
 int main()
 {
